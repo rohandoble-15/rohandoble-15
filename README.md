@@ -89,8 +89,13 @@ An AI-powered Streamlit application that analyzes resumes and recommends suitabl
 
 `Python` `NLP` `Machine Learning` `Streamlit` `OpenAI`
 
-🔗 **Project:**  
-https://ai-resume-screening-and-job-recommendation-system.streamlit.app/
+## 🚀 Live Project
+
+<p align="center">
+  <a href="https://ai-resume-screening-and-job-recommendation-system.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-AI%20Resume%20Screening-FF4B4B?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
 
 ---
 
