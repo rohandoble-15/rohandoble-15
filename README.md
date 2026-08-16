@@ -90,7 +90,7 @@ An AI-powered Streamlit application that analyzes resumes and recommends suitabl
 `Python` `NLP` `Machine Learning` `Streamlit` `OpenAI`
 
 🔗 **Project:**  
-[View AI Resume Screening Project](https://github.com/rohandoble-15)
+https://ai-resume-screening-and-job-recommendation-system.streamlit.app/
 
 ---
 
