@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rohan Doble
 
-###| 📊 Data Analyst | 💻 Data Science | 🤖 AI & Machine Learning | 🐍 Python | 📊 Power BI
+### 📊 Data Analyst | 💻 Data Science | 🤖 AI & Machine Learning | 🐍 Python | 📊 Power BI
 
 **Computer Science & Engineering Graduate | Data Analyst | Data & AI Enthusiast**
 
