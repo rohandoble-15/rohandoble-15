@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Rohan Doble
 
-### 💻 Data Science | 🤖 AI & Machine Learning | 🐍 Python | 📊 Power BI
+###| 📊 Data Analyst | 💻 Data Science | 🤖 AI & Machine Learning | 🐍 Python | 📊 Power BI
 
-**Computer Science & Engineering Graduate | Data & AI Enthusiast**
+**Computer Science & Engineering Graduate | Data Analyst | Data & AI Enthusiast**
 
 [![GitHub](https://img.shields.io/badge/GitHub-rohandoble--15-181717?style=for-the-badge&logo=github)](https://github.com/rohandoble-15)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Doble-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohan-doble-b5a702237/)
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science & Engineering graduate** passionate about **Data Science, Artificial Intelligence, Machine Learning, Python, SQL, and Business Intelligence**.
+I'm a **Computer Science & Engineering graduate** passionate about **Data Analyst, Data Science, Artificial Intelligence, Machine Learning, Python, SQL, and Business Intelligence**.
 
 I enjoy working with data, developing practical applications, creating interactive dashboards, and turning real-world problems into technology-driven solutions.
 
